@@ -13,6 +13,13 @@
 }
 
 
+.Flower {
+    /* margin-top: 50px; */
+    /* height: 205px; */
+    max-width: 255px;
+    width: 100%;
+}
+
 
 .nadpis {
     margin-top: 50px;
@@ -20,4 +27,12 @@
 
 .black-text {
     color: black;
+}
+
+
+.map {
+    /* margin-top: 196px; */
+    /* height: 207px; */
+    max-width: 255px;
+    width: 100%;
 }
